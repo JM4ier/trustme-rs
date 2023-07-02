@@ -3,6 +3,7 @@ name = "trustme"
 version = "1.0.0"
 edition = "2021"
 license = "MIT"
+description = "Tell the compiler that you can be trusted to write unsafe code!"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
